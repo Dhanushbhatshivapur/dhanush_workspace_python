@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f31818e-14c8-4b81-84c0-1581c9d2c3a7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dhanush_workspace_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dhanush_workspace_python.iml" afterDir="false" />
+    <list default="true" id="d0bf927c-c8e2-45d9-959c-38952ca3d39b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
