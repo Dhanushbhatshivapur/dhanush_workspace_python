@@ -120,3 +120,8 @@ result = "Fail" if marks < 40 else ("Excellent" if marks >= 80 else "Pass")
 
 print(result)
 
+
+
+quantities = [1, 2, 1, 2, 1, 3]
+
+print(quantities[-3:])
